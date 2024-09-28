@@ -1,26 +1,26 @@
 🛒 Sistema de Supermercado - Mini Projeto Java
 
-Bem-vindo ao repositório do Sistema de Supermercado, um mini projeto desenvolvido em Java para simular o gerenciamento de produtos e compras em um supermercado. Este projeto foi criado com fins educacionais e apresenta um exemplo prático de integração entre uma aplicação Java e um banco de dados relacional.
+Bem-vindo ao repositório do Sistema de Supermercado, um mini projeto desenvolvido em Java para simular o gerenciamento de produtos e compras em um supermercado.
 
-📋 Índice
-Funcionalidades
-Tecnologias Utilizadas
-Configuração do Ambiente
-Queries SQL de Referência
+📋 Índice <br>
+Funcionalidades <br>
+Tecnologias Utilizadas <br>
+Configuração do Ambiente <br>
+Queries SQL de Referência <br>
 Como Contribuir
 
 Licença
-⚙️ Funcionalidades
-📦 Cadastro de Produtos: Permite adicionar novos produtos com nome e preço unitário.
-🛒 Registro de Compras: Permite registrar compras associadas aos produtos com a quantidade adquirida.
-🔍 Valor total dinamico: O sistema irá calcular o valor total dinamicamente.
-🛠️ Tecnologias Utilizadas
-Java: Linguagem principal para o desenvolvimento da aplicação.
-SQL: Linguagem usada para consultar o banco de dados.
-🚀 Configuração do Ambiente
-Siga os passos abaixo para configurar e executar o projeto localmente:
+⚙️ Funcionalidades <br>
+📦 Cadastro de Produtos: Permite adicionar novos produtos com nome e preço unitário. <br>
+🛒 Registro de Compras: Permite registrar compras associadas aos produtos com a quantidade adquirida. <br>
+🔍 Valor total dinamico: O sistema irá calcular o valor total dinamicamente. <br>
+🛠️ Tecnologias Utilizadas <br>
+Java: Linguagem principal para o desenvolvimento da aplicação. <br>
+SQL: Linguagem usada para consultar o banco de dados. v
+🚀 Configuração do Ambiente <br>
+Siga os passos abaixo para configurar e executar o projeto localmente: <br>
 
-Clone o repositório:
+Clone o repositório: <br>
 
 bash
 Copy code
@@ -43,12 +43,12 @@ Descrição: Identifica o produto com a maior quantidade total vendida.
 Query 3: Número de Compras por Produto
 Descrição: Mostra todos os produtos e o número de vezes que cada um foi comprado.
 
-🤝 Como Contribuir
-Faça um fork deste repositório.
-Crie uma branch para a sua feature: git checkout -b minha-feature.
-Commit suas alterações: git commit -m 'Adicionei uma nova feature'.
-Faça um push para a branch: git push origin minha-feature.
-Abra um pull request.
-📝 Licença
+🤝 Como Contribuir<br>
+Faça um fork deste repositório.<br>
+Crie uma branch para a sua feature: git checkout -b minha-feature.<br>
+Commit suas alterações: git commit -m 'Adicionei uma nova feature'.<br>
+Faça um push para a branch: git push origin minha-feature.<br>
+Abra um pull request.<br>
+📝 Licença<br>
 Este projeto está licenciado sob a Brenda-Licence.
 
