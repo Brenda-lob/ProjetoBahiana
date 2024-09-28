@@ -9,7 +9,7 @@ Configuração do Ambiente <br>
 Queries SQL de Referência <br>
 Como Contribuir
 
-Licença
+Licença<br>
 ⚙️ Funcionalidades <br>
 📦 Cadastro de Produtos: Permite adicionar novos produtos com nome e preço unitário. <br>
 🛒 Registro de Compras: Permite registrar compras associadas aos produtos com a quantidade adquirida. <br>
